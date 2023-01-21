@@ -15,14 +15,14 @@ html {
 body {
  box-sizing: border-box;
  font-family: 'Outfit', sans-serif;
- background-color: grey;
+ background-color: rgb(227, 227, 227);
 }
 
 .header-container, a {
     text-align: center;
     margin-top: 5rem;
     font-size: clamp(1.2rem, 2.4rem, 4.8rem);
-    color: white;
+    color: black;
 }
 
 .main-container {
