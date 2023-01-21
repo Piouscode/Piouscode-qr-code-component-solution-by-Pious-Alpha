@@ -7,6 +7,8 @@ This challenge includes a sleek and contemporary QR code component that is aimed
 
 > 2. The component is designed to be accessible, with the use of various ARIA attributes, such as tabindex, role, aria-label, and aria-labelledby. These attributes aid in providing context and information to assistive technologies, and ensure that the website can be easily navigated using a keyboard.
 
+## Demo
+[**View Component Online**](https://piouscode.github.io/Piouscode-qr-code-component-solution-by-Pious-Alpha/)
 
 ## Screenshots
 ### Smaller Size screens — Smartphones
@@ -59,9 +61,6 @@ This challenge includes a sleek and contemporary QR code component that is aimed
 **Laptop 1280x950**
 
 ![Laptop-3-1280x950](https://user-images.githubusercontent.com/102190049/213871177-c81e7c2d-c531-4c23-b5dc-93a30c6ef90d.png)
-
-## Demo
-[**View Component Online**](https://piouscode.github.io/Piouscode-qr-code-component-solution-by-Pious-Alpha/)
 
 ## Conclusion
 
