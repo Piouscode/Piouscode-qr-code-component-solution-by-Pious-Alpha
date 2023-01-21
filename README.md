@@ -21,3 +21,5 @@ Insert gif or link to demo
 ## Conclusion
 
 This project, in general, demonstrates an aesthetically appealing, accessible, and secure QR code component that can be implemented into a number of different websites. My objective here is to stretch my muscles from my recent learning trip on writing DRY and clean code, as well as concentrating on accessibility and other assisting technologies of web development  its best practices—a commitment to creating an inclusive and user-friendly experience.
+
+[View Component Online](https://piouscode.github.io/Piouscode-qr-code-component-solution-by-Pious-Alpha/)
