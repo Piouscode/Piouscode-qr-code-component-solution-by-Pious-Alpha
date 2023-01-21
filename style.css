@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*
+*::before
+*::after {
+ margin: 0;
+ padding: 0;
+ box-sizing: inherit;
+}
+
+html {
+ font-size: 62.5%;
+}
+
+body {
+ box-sizing: border-box;
+ font-family: 'Outfit', sans-serif;
+ background-color: grey;
+}
+
+.header-container, a {
+    text-align: center;
+    margin-top: 5rem;
+    font-size: clamp(1.2rem, 2.4rem, 4.8rem);
+    color: white;
+}
+
+.main-container {
+    background-color: #fff;
+    border-radius: 2rem;
+    width: 32rem;
+    height: 50rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-box-shadow: 0 25px 25px 0 rgba(0, 0, 0, 0.0476518);
+    box-shadow: 0 25px 25px 0 rgba(0, 0, 0, 0.0476518);
+}
+
+img {
+    width: 28.8em;
+    height: 28.8em;
+    object-fit: contain;
+    padding: 1.6em;
+    border-radius: 2.5em;
+
+}
+
+.text-container {
+
+    width: 28.8rem;
+    height: 12.9rem;
+    padding-inline: 1.6rem;
+    display: grid;
+    place-items: center;
+    gap: 1.6rem;
+}
+
+h1 {
+    font-size: clamp(1.1em, 2.2em, 4.4em);
+    font-weight: 700;
+    font-style: normal !important;
+    text-align: center;
+    color: #1f314f;
+    margin: 0;
+}
+
+.body-paragraph {
+    font-weight: 400;
+    font-size: 1.5rem;
+    text-align: center;
+    letter-spacing: 0.1875px;
+    color: #7d889e;
+    width: 25.6rem;
+    height: 5.7rem;
+    margin: 0;
+}
+
+
+
+
+
+
+
+
+/* .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); } */
